@@ -1,0 +1,4 @@
+[TDS]
+Description = FreeTDS MSSQL Driver for Linux Debian 5 – "Lenny”
+Driver = /usr/lib/odbc/libtdsodbc.so
+Setup = /usr/lib/odbc/libtdsS.so

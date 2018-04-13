@@ -1,0 +1,7 @@
+[MBS_STG]
+Description = MBS – FreeTDS
+Driver = TDS
+Trace = No
+Database = MBS_STG
+Server = 172.31.1.96
+Port = 1433
